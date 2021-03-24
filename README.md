@@ -1,7 +1,7 @@
 - 👋 Salut, je m'appelle Drucilla.
 - 👀 Je m'intéresse au développement web (sites vitrines, e-commerce, application web interne, API)
 - 🌱 J'apprends actuellement les différents langages de programmation web (JS, PHP, MySQL).
-- 💞️ Quand je me sentirai suffisamment compétente, je me ferai un plaisir de collaborer sur des projets web.
+- 💞️ Je me ferai un plaisir de collaborer sur différents projets web.
 - 📫 Vous pouvez me joindre par [mail](mailto:drucilladeroche@protonmail.com) ou via [Linkedin](https://www.linkedin.com/in/drucilla-deroche).
 
 <!---
