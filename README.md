@@ -5,8 +5,8 @@
 
 ## Compétences transverses
 - Curiosité : Quand j'ai eu mon premier ordinateur, je me posais la question. Comment cette machine arrive à traiter autant d'informations en si peu de temps ?
-- Esprit d'équipe : Quand une personne est confronté à un problème, je n'hésite pas à lui apporter à mon aide afin de trouver une solution au probème ensemble.
-- Force de proposition : Si l'outil existant ne permet pas de répondre à un besoin spécifique, je propose des solutions alternatives.
+- Esprit d'équipe : Quand une personne est confronté à un problème, je n'hésite pas à lui apporter mon aide afin de trouver une solution au probème ensemble.
+- Force de proposition : Si l'outil existant ne permet pas de répondre à un besoin spécifique, je propose une solution alternative.
 
 ## Centres d'intérêt
 Musique, Sport, Lecture de BD numériques (Webtoons)
