@@ -11,4 +11,4 @@
 ## Centres d'intérêt
 Musique, Sport, Lecture de BD numériques (Webtoons)
 
-[![image](https://api.iconify.design/mdi:github.svg?color=%23669c35)](https://github.com/drucimimi){:target="_blank"} [![image](https://api.iconify.design/akar-icons:linkedin-v1-fill.svg?color=%23669c35)](https://www.linkedin.com/in/drucilla-deroche){:target="_blank"}
+[![image](https://api.iconify.design/mdi:github.svg?color=%23669c35)](https://github.com/drucimimi) [![image](https://api.iconify.design/akar-icons:linkedin-v1-fill.svg?color=%23669c35)](https://www.linkedin.com/in/drucilla-deroche)
