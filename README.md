@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/d77c4ebd-26a6-4dbb-a70f-6079aab8e1e4)
 
-## Bonjour, je m'appelle Drucilla 👋
+# Bonjour, je m'appelle Drucilla 👋
 🗣 Passionée d'informatique depuis toute petite, je suis développeuse full stack basée à Nantes, France. Deux ans d'expérience chez Accenture, j'ai pu monter en compétences sur le développement web en général. Actuellement, je me spécialise sur le développement front d'applications web.
 
 ## Compétences transverses
